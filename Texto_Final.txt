@@ -1,0 +1,11 @@
+A proposta do aplicativo "Danger Slipping" é trazer segurança para as pessoas que habitam ou trafegam 
+em áreas de risco de deslizamentos.
+Utilizando dados disponibilizados pela API da NASA conseguimos informações para assinalar no mapa 
+(API do google) as áreas onde ocorreram deslizamentos e mantermos um histórico de locais considerados 
+de risco.
+Novas áreas de risco podem ser incluídas no aplicativo por seus usuários e esses dados serão analisados e incluidos
+no mapeamento.
+Em casos de emergência, o aplicativo esta equipado com funcionalidades que possibilitam seu usuário pedir ajuda com 
+muita facilidade.
+Estão dispostos no aplicativo: telefones de emergência e até um manual de sobrevivência com dicas de como se comportar em caso de desastre ou até
+mesmo identificar uma área de risco.

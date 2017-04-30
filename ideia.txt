@@ -1,0 +1,26 @@
+- App XYZ divido em duas principais partes.
+	1º foco em prevenção
+	- Conscientização (chamar a atenção do usuário, descobrir o porque que ele esta em uma área de emergência)
+ 	
+	
+	- Manual de sobrevivencia em caso de deslizamentos
+
+
+
+
+
+	2º foco na hora da emergência
+	- Maneira do socorro saber a localização exata em que o usuário esta soterrado ou em risco e não consegue pedir ajuda.
+	- O aplicativo "pede" a ajuda para o usuário, ou seja, o meio de campo entre o usuário e as entidades de emergência.
+
+
+
+
+	
+
+
+
+
+
+
+
